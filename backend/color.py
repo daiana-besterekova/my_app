@@ -148,7 +148,29 @@ color_dict = {
     "White": (255, 255, 255),
     "WhiteSmoke": (245, 245, 245),
     "Yellow": (255, 255, 0),
-    "YellowGreen": (154, 205, 50)
+    "YellowGreen": (154, 205, 50),
+    "TeaGreen": (208, 240, 192),
+    "CottonCandy": (255, 188, 217),
+    "LemonLime": (227, 255, 0),
+    "MintGreen": (189, 252, 201),
+    "SunsetOrange": (253, 94, 83),
+    "Razzmatazz": (227, 37, 107),
+    "ElectricPurple": (191, 0, 255),
+    "LemonCurry": (204, 160, 29),
+    "MacaroniAndCheese": (255, 189, 136),
+    "Melon": (253, 188, 180),
+    "FlamingoPink": (252, 142, 172),
+    "Zomp": (57, 167, 142),
+    "TiffanyBlue": (10, 186, 181),
+    "Mauvelous": (239, 152, 170),
+    "FreshAir": (166, 231, 255),
+    "MoonstoneBlue": (115, 169, 194),
+    "Liberty": (84, 90, 167),
+    "CherryBlossomPink": (255, 183, 197),
+    "BlueBell": (162, 162, 208),
+    "Peach": (255, 229, 180),
+    "LanguidLavender": (214, 202, 221),
+    "SkyMagenta": (207, 113, 175)
 }
 
 def closest_color(rgb):
